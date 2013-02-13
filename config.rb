@@ -5,7 +5,7 @@ project_type = :stand_alone
 http_path = "/"
 http_images_path = "/images"
 http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+css_dir = "public/css"
 
 # Local development paths
 sass_dir = "sass"
@@ -14,3 +14,4 @@ fonts_dir = "source/fonts"
 
 line_comments = false
 output_style = :compressed
+preferred_syntax = :sass
